@@ -2,7 +2,8 @@
 layout: default
 title: About
 ---
-#About page
+### About
 
-Greetings, my name is Justin Lok.
-I am a hobbiest game developer and undergraduate at UC Merced.
+Hobbiest game dev.
+<br/>
+UC Merced Undergraduate.
