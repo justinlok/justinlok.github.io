@@ -2,38 +2,11 @@
     color:rgb(0, 151, 161);
 }
 
-.sidenav{
-    height: 100%;
-    width: calc(33vw);
-    position: fixed;
-    z-index: 1;
-    top: 0;
-    left: 0;
-    background-color: ghostwhite;
-    overflow: hidden;
-    padding-top: 32px;
-    direction: rtl;
-
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
-.sidenav a{
-    margin-top: 8px;
-    margin-bottom: 8px;
-    text-decoration: none;
-    font-size: 16px;
-    width: 100%;
-    padding-right: 8px;
-    border-left: 0px;
-    border-bottom: 0px;
-    border-top: 0px;
-    border-right: 3px;
-    border-style: solid;
-}
-
-.main{
-    margin-top: 32px;
-    margin-left: calc(36vw);
-    margin-right: calc(30vw);
-    padding: 0px 20px;
-    background-color: ghostwhite;
+a{
+    text-decoration:none;
+    color:cadetblue;
 }
