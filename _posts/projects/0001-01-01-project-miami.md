@@ -8,7 +8,7 @@ description:
 thumbnail: "project_miami/title.png"
 categories: projects
 ---
-
+![](\assets\images\projects\project_miami\screenshot1.png)
 Up for some nonstop shooting, gun tooting, robot blasting action? You came to the right place! Now Featuring:
 
 
