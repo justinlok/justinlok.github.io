@@ -9,7 +9,7 @@ title: Projects
         {% if post.categories contains 'projects' %}
             <li>
                 <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-                <img src="\assets\images\projects\project_miami\title.png">
+                <img src="\assets\images\projects\{{ post.thumbnail }}">
                 <p>{{ post.subtitle | strip_html }}</p>
             </li>
         {% endif %}

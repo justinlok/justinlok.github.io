@@ -1,11 +1,11 @@
 ---
 layout: project
-title: Project Miami
+title: Project&nbspMiami
 subtitle: A 2D top down shooter game
 img: 
-project-url:
-description:
-
+project-url: 
+description: 
+thumbnail: "project_miami/title.png"
 categories: projects
 ---
 
