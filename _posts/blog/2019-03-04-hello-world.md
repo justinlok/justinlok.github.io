@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New&nbsp;Dawn
+title: Hello&nbsp;World!
 author: Justin Lok
 categories: blog
 ---

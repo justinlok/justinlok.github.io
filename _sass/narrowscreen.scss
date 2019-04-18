@@ -6,9 +6,10 @@
 
 .sidenav a{
     text-decoration: none;
-    padding-right: 80vw;
+    padding-right: calc(100vw - 50px);
     margin-top: 8px;
     margin-bottom:8px;
+    margin-left: 8px;
     border-left: 0px;
     border-bottom: 0px;
     border-top: 0px;

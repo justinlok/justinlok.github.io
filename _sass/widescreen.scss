@@ -1,12 +1,15 @@
+.outter{
+    background-color: aqua;
+}
+
 
 .sidenav{
     height: 100%;
-    width: calc(33vw );
+    width: 200px;
+    margin-left: calc(50vw - 400px);
     position: fixed;
     z-index: 1;
-    top: 0;
-    left: 0;
-    background-color: ghostwhite;
+    background-color: rgb(177, 60, 124);
     overflow: hidden;
     padding-top: 32px;
     direction: rtl;
@@ -14,7 +17,7 @@
 }
 
 .sidenav a{
-    margin-top: 8px;
+    margin-right: 8px;
     margin-bottom: 8px;
     text-decoration: none;
     font-size: 20px;
@@ -28,10 +31,10 @@
 }
 
 .main{
-    margin-top: 32px;
-    margin-left: calc(36vw);
-    margin-right: calc(30vw);
-    padding: 0px 20px;
-    background-color: ghostwhite;
+    margin-left: calc(50vw - 200px);
+    height: 100vh;
+    width: 400px;
+    background-color: rgb(210, 210, 255);
     
 }
+

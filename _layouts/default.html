@@ -4,12 +4,17 @@
     <head>
             {% include head.html %}
             <link rel="stylesheet" href="/assets/css/styles.css">
-    </head>
-    <header class="sidebar">
-        {% include navigation.html %}
-    </header>
-    <body class="main">
-        <title>{{ page.title }}</title>
-        {{ content }}
+    </head>      
+    
+    <body class="outter">
+        <header class="sidebar">
+            {% include navigation.html %}
+        </header>
+        <div class="main">
+            <title>{{ page.title }}</title>
+            {{ content }}
+        </div>
     </body>
+
+
 </html>
