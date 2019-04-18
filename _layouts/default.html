@@ -10,9 +10,11 @@
         <header class="sidebar">
             {% include navigation.html %}
         </header>
-        <div class="main">
-            <title>{{ page.title }}</title>
-            {{ content }}
+        <div class="inner">
+            <div class="main">
+                <title>{{ page.title }}</title>
+                {{ content }}
+        </div>
         </div>
     </body>
 

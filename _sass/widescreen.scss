@@ -30,11 +30,15 @@
     border-style: solid;
 }
 
-.main{
+.inner{
     margin-left: calc(50vw - 200px);
     height: 100vh;
     width: 400px;
-    background-color: rgb(210, 210, 255);
-    
+    background-color: green;
+    padding: 32px;
+}
+
+.main{
+    background-color: yellow;
 }
 
