@@ -1,5 +1,7 @@
 .outter{
-    background-color:ghostwhite;
+    //background: url("/assets/images/background.png");
+    background-size: 100%;
+    background-color: ghostwhite;
 }
 
 
@@ -33,7 +35,7 @@
 .inner{
     margin-left: calc(50vw - 200px);
     height: 100vh;
-    width: 400px;
+    width: 600px;
     background-color: ghostwhite;
     padding: 32px;
 }
