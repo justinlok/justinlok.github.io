@@ -40,7 +40,25 @@
     padding: 32px;
 }
 
-.main{
-    
+.main h2{
+    font-size: 24px;
+    padding-top: 8px;
 }
 
+.main h3{
+    padding-top: 24px;
+}
+
+.main h1,
+.main h2,
+.main h3,
+.main h4,
+.main h5,
+.main h6
+{
+    font-weight: normal;
+}
+
+.main li{
+    list-style-type: none;
+}
