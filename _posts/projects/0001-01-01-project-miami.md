@@ -5,6 +5,9 @@ subtitle: A 2D top down shooter game
 img: 
 project-url: 
 description: 
+start-date: 3/20/2018
+end-date: 5/7/2018
+made-with: FreeGLUT
 thumbnail: "project_miami/title.png"
 categories: projects
 ---
