@@ -1,12 +1,12 @@
 ---
 layout: project
-title: Project&nbspMiami
+title: Project Miami
 subtitle: A 2D top down shooter game
 img: 
 project-url: 
 description: 
-start-date: 3/20/2018
-end-date: 5/7/2018
+start-date: 2018-03-20
+end-date: 2018-05-07
 made-with: FreeGLUT
 thumbnail: "project_miami/title.png"
 categories: projects

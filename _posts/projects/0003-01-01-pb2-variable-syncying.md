@@ -1,15 +1,15 @@
 ---
 layout: project
-title: Variable&nbspSyncing&nbspin&nbspPlazma&nbspBurst&nbsp2&nbspMultiplayer
-subtitle: An upcoming 3D platfomer about cubes
+title: Variable Syncing in Plazma Burst 2 Multiplayer and Modded Game Mode
+subtitle: Finding a solution to syncing level variables in Plazma Burst 2's online multiplayer, as well as creation of a whole new game mode.
 img1: tcccg/screenshot1.png
 project-url:
 description:
-start-date: 6/6/2018
-end-date: 6/14/2018
+start-date: 2018-06-06
+end-date: 2018-06-14
 made-with: PB2 Advance Level Editor
-thumbnail: pb2/thumbnail.png
+thumbnail: pb2-var/thumbnail.png
 categories: projects
 ---
 
-
+So Plazma Burst 2 is [an amazing Flash game](/blog/pb2-one-impressive-flash-game).

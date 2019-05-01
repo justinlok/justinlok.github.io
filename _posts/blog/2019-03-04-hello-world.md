@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello&nbsp;World!
+title: Hello World!
 author: Justin Lok
 categories: blog
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Plazma&nbspBurst&nbsp2&nbsp:&nbspOne&nbspImpressive&nbspFlash&nbspGame"
+title: "Plazma Burst 2 - One Impressive Flash Game"
 author: Justin Lok
 categories: blog
 ---
