@@ -14,5 +14,5 @@ categories: projects
 
 So Plazma Burst 2 is an amazing Flash game [with a nifty level editor](/blog/pb2-one-impressive-flash-game).
 
-Programing with trigger system allows you to do anything as long as you don't do anything too performance intensive. (Like spawning thousands of projectiles at once)
+The trigger system allows you to do anything as long as you don't do anything too performance intensive. (Like spawning thousands of projectiles at once)
 
