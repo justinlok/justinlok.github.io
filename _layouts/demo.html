@@ -1,0 +1,14 @@
+---
+layout: default
+categories: Demos
+---
+
+<h2>{{ page.title }}</h2>
+{% if page.end-date == "Ongoing" %}
+    <h4><i class="far fa-calendar"></i> {{ page.start-date | date_to_string  }} - Ongoing</h4>
+{% else %}
+    <h4><i class="far fa-calendar"></i> {{ page.start-date | date_to_string  }} - {{ page.end-date | date_to_string }}</h4>
+{% endif %}
+<h4><i class="fas fa-hammer"></i> Made in {{ page.made-with }} </h4>
+<br>
+{{ content }}
