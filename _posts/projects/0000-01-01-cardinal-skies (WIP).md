@@ -16,7 +16,7 @@ categories: projects
   <source src="\assets\images\projects\cardinal_skies\cardinal_skies.mp4" type="video/mp4">
 </video>
 <p>
-This game is a homage to the now shareware game, Realspace 3. Realspace 3 is a top down arcade shooter telling the war between the humans and their nemisis, the Katari. Dispite some rough edges, the game manages to immerse players into a desprate position, fighting to protect the last remnants of humanity. This is all due to the swaths of allies that fights along side the player in missions. You are not a one-man, sorry we placed all our last hopes into you army, but the tip of a spear that will strike the heart of the Katari, winning the war for the humans. And this is the defining aspect of the game, the large fleet on fleet battles that took place.
+This game is a homage to the now shareware game, Realspace 3. Realspace 3 is a top down arcade shooter telling the war between the humans and their nemesis, the Katari. Despite some rough edges, the game manages to immerse players into a desperate position, fighting to protect the last remnants of humanity. This is all due to the swaths of allies that fights along side the player in missions. You are not a one-man, sorry we placed all our last hopes into you army, but the tip of a spear that will strike the heart of the Katari, winning the war for the humans. And this is the defining aspect of the game, the large fleet on fleet battles that took place.
 </p>
 <br>
 <p>

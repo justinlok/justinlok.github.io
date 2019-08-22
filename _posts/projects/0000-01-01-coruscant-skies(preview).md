@@ -14,13 +14,12 @@ categories: projects
 <video muted autoplay="autoplay" loop="loop" width="100%" height="auto">
   <source src="\assets\images\projects\coruscant_skies\cs_preview.webm" type="video/webm">
 </video>
-<p>
-A wallpaper derived from my in development game, Cardinal Skies. This live wallpaper recreates the the CIS attack on the planet Coruscant.
-</p>
-<br>
-<p>
 
-</p>
+A wallpaper derived from my in development game, Cardinal Skies. This live wallpaper recreates the the CIS attack on the planet Coruscant.
+
+<br>
+
+
 Todo:
 
 -Original art for Vulture droids and background.
