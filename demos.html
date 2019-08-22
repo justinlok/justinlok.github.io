@@ -1,0 +1,26 @@
+---
+layout: default
+title: Demos
+---
+<h2>Demos</h2>
+<p>
+These are my shorter, one-off projects. Although they could be expanded into full-sized works, these demos were mainly created as proof of concept for the communities surrounding the program.
+</p>
+<ul >
+    {% assign sorted = (site.posts | sort: 'start-date') | reverse %}
+    {% for post in sorted %}
+        {% if post.categories contains 'demos' %}
+            <li>
+                <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+                {% if post.end-date == "Ongoing" %}
+                    <h4><i class="far fa-calendar"></i> {{ post.start-date | date_to_string  }} - Ongoing</h4>
+                {% else %}
+                    <h4><i class="far fa-calendar"></i> {{ post.start-date | date_to_string  }} - {{ post.end-date | date_to_string }}</h4>
+                {% endif %}
+                <img src="\assets\images\projects\{{ post.thumbnail }}">
+                <p>{{ post.subtitle | strip_html }}</p>
+                
+            </li>
+        {% endif %}
+    {% endfor %}
+</ul>
