@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Coruscant Skies (Preview)
+title: Coruscant Skies
 subtitle: Dynamic wallpaper for Wallpaper Engine featuring space battle over Coruscant
 img: 
 project-url: 
@@ -18,12 +18,3 @@ categories: projects
 A wallpaper derived from my in development game, Cardinal Skies. This live wallpaper recreates the the CIS attack on the planet Coruscant.
 
 <br>
-
-
-Todo:
-
--Original art for Vulture droids and background.
-
--Ship gibs for explosion effects.
-
--Hyperspace animation for entering ships

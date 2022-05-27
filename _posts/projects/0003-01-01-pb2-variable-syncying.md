@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Variable Syncing in Plazma Burst 2 Multiplayer
+title: Multiplayer Variable Syncing Framework for Plazma Burst 2
 subtitle: Finding a solution to syncing level variables in Plazma Burst 2's online multiplayer, as well as creation of a whole new game mode.
 img1: tcccg/screenshot1.png
 project-url:

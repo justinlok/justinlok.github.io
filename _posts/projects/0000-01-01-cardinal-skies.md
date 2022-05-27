@@ -6,7 +6,7 @@ img:
 project-url: 
 description: 
 start-date: 2018-03-20
-end-date: Ongoing
+end-date: 2018-05-07
 made-with: Godot
 thumbnail: "cardinal_skies/thumbnail.png"
 categories: projects
